@@ -1,0 +1,37 @@
+/*All titles
+The navigation bar
+The footer
+The photos in the gallery page*/
+html {
+	background: white;
+	font: fantasy;
+}
+h1 {
+	color: black;
+	
+}
+h2 {
+	color: black;
+		
+}
+nav { 
+	background: white;
+	padding: 10px;
+	width: 200px;
+	} 
+footer {
+	color: white;
+	text-align: center;
+	padding: 10px;
+}
+.galleryimage {
+	width: 400px;
+	padding-left: 10px;
+}
+.socialimage {
+	
+	width: 30px;
+}
+.nav-section {
+	color: white;
+}
